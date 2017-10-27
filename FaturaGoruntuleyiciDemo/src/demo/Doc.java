@@ -385,6 +385,7 @@ public class Doc
     	init();
         try {
             final Doc doc = new Doc("C:\\Users\\esat\\Downloads\\efatura goruntuleyici jars\\DMR2017000000225.xml", false);
+            System.out.println("basarili");
         }
         catch (Exception e) {
             e.printStackTrace();
