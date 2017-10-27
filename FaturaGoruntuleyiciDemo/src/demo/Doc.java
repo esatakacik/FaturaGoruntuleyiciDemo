@@ -390,6 +390,7 @@ public class Doc
         catch (Exception e) {
             e.printStackTrace();
         }
+        
     }
     public static void init() {
 		String userTemp = System.getProperty("java.io.tmpdir");
